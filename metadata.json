@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Math Genius",
+  "description": "A world-class scientific calculator integrated with Google Gemini AI for solving complex word problems, explaining math concepts, and providing step-by-step reasoning.",
+  "requestFramePermissions": []
+}
